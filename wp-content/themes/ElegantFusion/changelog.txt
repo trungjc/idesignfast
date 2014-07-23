@@ -1,0 +1,170 @@
+version 2.1 ( updated 02-25-2014 )
+- Fixed the issue with slashes added to Name, Subject and Message fields in the contact form
+	* page-contact.php
+- Fixed the issue with resizing of images that have the x symbol between width and height values in the filename
+- Fixed the issue with .jpeg images and uppercase extensions in cached files
+- The theme doesn't strip slashes from custom css now, when saving the option to the database
+- Removed buzz shortcode ( Google retired Buzz )
+- Fixed ePanel SEO home options not appearing on static front page
+- Better compatibility with WordPress SEO and All In One SEO Pack plugins. ePanel SEO is disabled if these plugins are active now.
+	* epanel/core_functions.php
+	* epanel/custom_functions.php
+	* epanel/shortcodes/shortcodes.php
+- Fixed Rss Url
+	* header.php
+- Bumped version number
+	* style.css
+
+version 2.0 ( updated 12-23-2013 )
+- Now you can update Elegant Themes in the Dashboard: https://www.elegantthemes.com/members-area/documentation.html#updater
+	* epanel/custom_functions.php
+- Bumped version number
+	* style.css
+
+version 1.9 ( updated 09-13-2013 )
+- Fixed slider animations issues in Firefox
+	* js/custom.js
+	* style.css
+- Fixed testimonial terms list on single pages
+	* functions.php
+- Fixed Tabs shortcode layout issues with the slide effect
+	* epanel/shortcodes/css/shortcodes.css
+	* epanel/shortcodes/shortcodes.php
+- Bumped version number
+	* style.css
+
+version 1.8 ( updated 08-02-2013 )
+- Fixed separate_comments function notice
+	* epanel/custom_functions.php
+- Bumped version number
+	* style.css
+
+version 1.7 ( updated 06-26-2013 )
+- Removed fitVids plugin
+	* functions.php
+	* js/custom.js
+	* deleted js/jquery.fitvids.js
+	* style.css
+- Fixed shadow in testimonials slider in Firefox
+	* style.css
+- Removed hgroup tag
+	* includes/top_info.php
+	* style.css
+- Fixed validation errors
+	* header.php
+- Fixed Post/Page Editor Word Count Problem
+- Fixed issue with left tabs shortcode
+- Fixed tooltip glitch
+- Fixed issue with span in pricing table
+- Fixed get_current_theme warning message.
+- Fixed the issue with Fancybox videos not working on second launch in WordPress 3.6
+- Added shortcodes names to shortcode_atts() to enable filtering
+
+List of modified files:
+* epanel/custom_functions.php
+* epanel/page_templates/js/et-ptemplates-frontend.js
+* epanel/page_templates/js/fancybox/jquery.fancybox-1.3.4.pack.js
+* epanel/shortcodes/css/shortcodes.css
+* epanel/shortcodes/js/et_shortcodes_frontend.js
+* epanel/shortcodes/js/et_shortcodes_frontend.dev.js
+* epanel/shortcodes/shortcodes.php
+
+version 1.6 ( updated 05-15-2013 )
+- Added premade colorschemes to customizer
+	* style.css
+	* epanel/google-fonts/et_google_fonts.js
+
+version 1.5 ( updated 05-02-2012 )
+- Fixed static frontpage issues.
+- Fixed page title issue on single pages
+- Fixed menu links issue in IE9
+- Added readme.url file
+- Fixed posts update notification messages in WP-Admin
+- Integrated Google Fonts options into Customizer
+
+List of modified files:
+epanel/core_functions.php
+epanel/custom_functions.php
+epanel/google-fonts/et_google_fonts.css
+epanel/google-fonts/et_google_fonts.js
+epanel/google-fonts/images/all-fonts.png
+epanel/options_fusion.php
+functions.php
+includes/top_info.php
+lang/de_DE.mo
+lang/de_DE.po
+lang/en_US.mo
+lang/en_US.po
+lang/ru_RU.mo
+lang/ru_RU.po
+readme.url
+style.css
+
+version 1.4 ( updated 04-03-2012 )
+- Integrated the default WordPress image system. It makes the theme work better on shared hostings and provides compatibility with plugins ( JetPack, WP Retina etc. ). Please, regenerate thumbnails after theme update ( http://wordpress.org/extend/plugins/regenerate-thumbnails/ ).
+- Full compatiblity with WPML plugin
+- Added 'Custom CSS' option to ePanel
+
+Nearly all files have been updated this time. Please, make sure you update all files.
+
+version 1.3 ( updated 02-04-2013 )
+- Removed Featured Slider Animation option from ePanel
+	* epanel/options_fusion.php
+- Bumped version number
+	* style.css
+- Corrected issue with placeholder text removal before comment form submission
+- Fixed 'Shortcode Slideshow Only Displays 11 Images' issue
+- Added alt attribute to the imagetab shortcode
+- Fixed update notification notice in WP-Admin
+- Fixed image issues with clean WordPress Multisite 3.5 installation
+- Added et_videolink_embed custom field ( it provides the way to use video embed code for posts in the Portfolio page template )
+- Improved ePanel functionality
+- Improvement: Contact form error notifications are translatable via localization files now
+- Code improvements
+	* comments.php
+	* content.php
+	* epanel/custom_functions.php
+	* epanel/options_fusion.php
+	* epanel/page_templates/js/et-ptemplates-frontend.js
+	* epanel/page_templates/page_templates.php
+	* epanel/shortcodes/js/et_shortcodes_frontend.dev.js
+	* epanel/shortcodes/js/et_shortcodes_frontend.js
+	* epanel/shortcodes/shortcodes.php
+	* functions.php
+	* header.php
+	* home.php
+	* includes/breadcrumbs.php
+	* includes/entry.php
+	* includes/featured.php
+	* includes/widgets/widget-customlogo.php
+	* js/custom.js
+	* lang/de_DE.mo
+	* lang/de_DE.po
+	* lang/en_US.mo
+	* lang/en_US.po
+	* lang/ru_RU.mo
+	* lang/ru_RU.po
+	* page-blog.php
+	* page-contact.php
+	* page-gallery.php
+	* page-login.php
+	* page-search.php
+	* page-sitemap.php
+	* page-template-portfolio.php
+	* style.css
+
+version 1.2 ( updated 01-05-2013 )
+- Background image in slider is replaced with the custom bg image defined in ePanel now
+	* functions.php
+	* includes/featured.php
+- Bumped version number
+	* style.css
+
+version 1.1 ( updated 01-04-2013 )
+- Fixed portfolio page and mobile logo issues:
+	* functions.php
+	* style.css
+
+version 1.0
+
+- initial release

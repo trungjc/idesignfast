@@ -1,0 +1,17 @@
+<wpml-config>
+	 <custom-types>
+        <custom-type translate="1">testimonial</custom-type>
+    </custom-types>
+	<admin-texts>
+		<key name="et_fusion">
+			<key name="fusion_date_format" />
+			<key name="fusion_logo_alt_1" />
+			<key name="fusion_logo_alt_2" />
+			<key name="fusion_logo_alt_3" />
+			<key name="fusion_logo_alt_4" />
+			<key name="fusion_seo_home_titletext" />
+			<key name="fusion_seo_home_descriptiontext" />
+			<key name="fusion_seo_home_keywordstext" />
+		</key>
+	</admin-texts>
+</wpml-config>

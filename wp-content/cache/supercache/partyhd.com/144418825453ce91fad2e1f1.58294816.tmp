@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<title>Testing Domain | Just another WordPress site</title>
+			
+	
+	<link rel="pingback" href="http://partyhd.com/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="http://partyhd.com/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<meta name='robots' content='noindex,follow' />
+<link rel="alternate" type="application/rss+xml" title="Testing Domain &raquo; Feed" href="http://partyhd.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Testing Domain &raquo; Comments Feed" href="http://partyhd.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Testing Domain &raquo; Home Comments Feed" href="http://partyhd.com/home/feed/" />
+<meta content="Divi Child 02 v.1.7" name="generator"/><link rel='stylesheet' id='open_sans-regular-latin,all-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3Aregular&#038;subset=latin%2Call&#038;ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='open_sans-300-latin,all-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300&#038;subset=latin%2Call&#038;ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='open_sans-600-latin,all-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A600&#038;subset=latin%2Call&#038;ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='http://partyhd.com/wp-content/themes/Divi-child-02/style.css?ver=1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-css-css'  href='http://partyhd.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-responsive-css-css'  href='http://partyhd.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://partyhd.com/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://partyhd.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://partyhd.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://partyhd.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Branding and Design' href='http://partyhd.com/branding-and-design/' />
+<link rel='next' title='Blog' href='http://partyhd.com/blog/' />
+<meta name="generator" content="WordPress 3.9.1" />
+<link rel='canonical' href='http://partyhd.com/' />
+<link rel='shortlink' href='http://partyhd.com/' />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />	<style>
+		a { color: #fe7722; }
+
+		body { color: #666666; }
+
+		.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading, .et_quote_content, .et_link_content, .et_audio_content { background-color: #3399cc; }
+
+		#main-header, #main-header .nav li ul, .et-search-form, #main-header .et_mobile_menu { background-color: #ffffff; }
+
+		#top-header, #et-secondary-nav li ul { background-color: #3399cc; }
+
+		.woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message, .woocommerce-error, .woocommerce-info { background: #3399cc !important; }
+
+		#et_search_icon:hover, .mobile_menu_bar:before, .footer-widget h4, .et-social-icon a:hover, .comment-reply-link, .form-submit input, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover { color: #3399cc !important; }
+
+		.woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light .et_pb_more_button, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .et_pb_contact_submit, .et_pb_bg_layout_light .et_pb_newsletter_button, .nav-single a, .posted_in a { color: #3399cc !important; }
+
+		.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li:before, .et_pb_pricing li:before, blockquote { border-color: #3399cc; }
+
+		#main-footer { background-color: #2e2e2e; }
+
+		#top-menu a { color: #666666; }
+
+		#top-menu li.current-menu-ancestor > a, #top-menu li.current-menu-item > a, .bottom-nav li.current-menu-item > a { color: #3399cc; }
+
+		</style>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+			
+							<style id="tt-easy-google-font-styles" type="text/css">
+			
+																						p {
+							font-family: Open Sans; color: #666666; font-weight: 400; font-style: normal; text-transform: none; line-height: 1.8; 						}
+								
+																										h1 {
+							font-family: Open Sans; font-weight: 300; font-style: normal; 						}
+								
+																										h2 {
+							font-family: Open Sans; font-weight: 300; font-style: normal; 						}
+								
+																										h3 {
+							font-family: Open Sans; font-weight: 300; font-style: normal; 						}
+								
+																										h4 {
+							font-family: Open Sans; font-weight: 300; font-style: normal; 						}
+								
+																										h5 {
+							font-family: Open Sans; font-weight: 600; font-style: normal; 						}
+								
+																										h6 {
+							font-family: Open Sans; font-weight: 300; font-style: normal; 						}
+								
+										
+							</style>
+						<style>
+.et_pb_bg_layout_light .et_pb_more_button {
+color: #fff !important;
+padding:6px 34px 6px 14px !important;
+}
+@media only screen and (max-width: 320px){
+.et_pb_bg_layout_light .et_pb_more_button{
+width: 50%;
+margin-top: -5px;
+padding: 2px 10px 2px 0px !important;
+}
+.et_pb_bg_layout_light .et_pb_more_button:hover{
+width: 50%;
+margin-top: -5px;
+padding: 2px 10px 2px 0px !important;
+}
+a.et_pb_more_button:hover {
+padding: 5px !important;
+width: 35%;
+}
+
+}
+</style>
+
+</head>
+<body class="home page page-id-833 page-template-default et_fixed_nav osx et_pb_pagebuilder_layout et_full_width_page chrome et_includes_sidebar">
+	<header id="main-header">
+		<div class="container clearfix">
+					<a href="http://partyhd.com/">
+				<img src="http://partyhd.com/wp-content/uploads/idesignfast-inbound-marketing-logo.png" alt="Testing Domain" id="logo" />
+			</a>
+
+			<div id="et-top-navigation">
+				<nav id="top-menu-nav">
+				<ul id="top-menu" class="nav"><li id="menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-833 current_page_item menu-item-973"><a href="http://partyhd.com/">Home</a></li>
+<li id="menu-item-756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-756"><a href="http://partyhd.com/about/">About</a></li>
+<li id="menu-item-755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-755"><a href="http://partyhd.com/services/">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-753"><a href="http://partyhd.com/inbound-marketing/">Inbound Marketing</a></li>
+	<li id="menu-item-1008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1008"><a href="http://partyhd.com/responsive-web-design/">Responsive Web Design</a></li>
+	<li id="menu-item-754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-754"><a href="http://partyhd.com/social-media/">Social Media</a></li>
+	<li id="menu-item-752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-752"><a href="http://partyhd.com/branding-and-design/">Branding and Design</a></li>
+</ul>
+</li>
+<li id="menu-item-838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-838"><a href="http://partyhd.com/blog/">Blog</a></li>
+<li id="menu-item-1243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1243"><a href="http://partyhd.com/contact/">Contact</a></li>
+</ul>				</nav>
+
+				<div id="et_top_search">
+					<span id="et_search_icon"></span>
+					<form role="search" method="get" class="et-search-form et-hidden" action="http://partyhd.com/">
+					<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />					</form>
+				</div>
+
+				<div id="et_mobile_nav_menu">
+			<a href="#" class="mobile_nav closed">
+				<span class="select_page">Select Page</span>
+				<span class="mobile_menu_bar"></span>
+			</a>
+		</div>			</div> <!-- #et-top-navigation -->
+		</div> <!-- .container -->
+	</header> <!-- #main-header -->
+<script>
+jQuery(document).ready(function(){
+jQuery("#print-slide-cust").parent().css({
+    'float' : 'right',
+	});
+});
+</script>
+
+<div id="main-content">
+
+
+
+
+
+
+
+			
+				<article id="post-833" class="post-833 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div class="et_pb_section et_pb_fullwidth_section et_section_regular" style='background-color:#ffffff;'>
+			
+			
+				
+				<div class="et_pb_slider et_slider_auto et_slider_speed_15000">
+			<div class="et_pb_slides">
+				<div class="et_pb_slide et_pb_bg_layout_light" style='background-color:#ffffff;background-image:url(http://partyhd.com/wp-content/uploads/inbound-marketing-issues.jpg);'>
+			
+			<div class="et_pb_container clearfix">
+				
+				<div class="et_pb_slide_description">
+					<h2><a href="http://partyhd.com/">Inbound Marketing</a></h2>
+					<div class="et_pb_slide_content">
+<h3 style="text-align: justify;"><strong>Ad budget stressing you out?</strong></h3>
+<p style="text-align: justify;">Don’t worry, Inbound Marketing has changed the way businesses acquire customers online.  Learn how we can help attract your target audience!</p>
+</div>
+					<a href="http://partyhd.com/" class="et_pb_more_button">Learn More</a>
+				</div> <!-- .et_pb_slide_description -->
+			</div> <!-- .et_pb_container -->
+			
+		</div> <!-- .et_pb_slide -->
+		<div class="et_pb_slide et_pb_bg_layout_light" style='background-color:#ffffff;background-image:url(http://partyhd.com/wp-content/uploads/responsive-design-devices.jpg);'>
+			
+			<div class="et_pb_container clearfix">
+				
+				<div class="et_pb_slide_description">
+					<h2><a href="http://partyhd.com/inbound-marketing">Responsive Design</a></h2>
+					<div class="et_pb_slide_content">
+<h3>A superior user-experience</h3>
+<p style="text-align: justify;">Donec pellentesque mauris fringilla luctus vulputate. Morbi semper eu risus a accumsan. Nullam bibendum interdum bibendum. Pellentesque ultricies est in leo accumsan, sed facilisis augue sodales. Vestibulum euismod nibh elit.</p>
+</div>
+					<a href="http://partyhd.com/inbound-marketing" class="et_pb_more_button">learn more</a>
+				</div> <!-- .et_pb_slide_description -->
+			</div> <!-- .et_pb_container -->
+			
+		</div> <!-- .et_pb_slide -->
+		<div class="et_pb_slide et_pb_bg_layout_light" style='background-color:#ffffff;background-image:url(http://partyhd.com/wp-content/uploads/social-media-following.jpg);'>
+			
+			<div class="et_pb_container clearfix">
+				
+				<div class="et_pb_slide_description">
+					<h2><a href="http://partyhd.com/social-media">Social Media</a></h2>
+					<div class="et_pb_slide_content">
+<h3>Simplify your social networking</h3>
+<p style="text-align: justify;">Donec pellentesque mauris fringilla luctus vulputate. Morbi semper eu risus a accumsan. Nullam bibendum interdum bibendum. Pellentesque ultricies est in leo accumsan, sed facilisis augue sodales. Vestibulum euismod nibh elit.</p>
+</div>
+					<a href="http://partyhd.com/social-media" class="et_pb_more_button">learn more</a>
+				</div> <!-- .et_pb_slide_description -->
+			</div> <!-- .et_pb_container -->
+			
+		</div> <!-- .et_pb_slide -->
+		
+			</div> <!-- .et_pb_slides -->
+		</div> <!-- .et_pb_slider -->
+		
+			
+		</div> <!-- .et_pb_section --><div class="et_pb_section hidden et_section_regular" style='background-color:#ffffff;'>
+			
+			
+				
+				<div class="et_pb_row">
+			<div class="et_pb_column et_pb_column_4_4">
+			<hr class="et_pb_space top-divider" style='height:20px;' />
+		</div> <!-- .et_pb_column -->
+		</div> <!-- .et_pb_row -->
+			
+		</div> <!-- .et_pb_section --><div class="et_pb_section et_section_regular" style='background-color:#ffffff;'>
+			
+			
+				
+				<div class="et_pb_row">
+			<div class="et_pb_column et_pb_column_1_4">
+			<div class="et_pb_text et_pb_bg_layout_light et_pb_text_align_center">
+			
+<p><a class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1a" href="http://partyhd.com/inbound-marketing/"><img class="alignnone size-full wp-image-1165" src="http://partyhd.com/wp-content/uploads/inbound-marketing-icon-small1.png" alt="inbound-marketing-icon-small" width="100" height="60" /></a></p>
+<h4><a href="http://partyhd.com/inbound-marketing/">Inbound Marketing</a></h4>
+<p>Vestibulum lobortis. Donec at euismod nibh, eu bibendum quam. Nullam non gravida purus, nec eleifend tincidunt nisi. Fusce at purus in massa laoreet.</p>
+
+		</div> <!-- .et_pb_text -->
+		</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4">
+			<div class="et_pb_text et_pb_bg_layout_light et_pb_text_align_center">
+			
+<p><a href="http://partyhd.com/social-media/"><img class="alignnone size-full wp-image-1167 imgeffect" src="http://partyhd.com/wp-content/uploads/social-media-icon-small1.png" alt="social-media-icon-small" width="100" height="60" /></a></p>
+<h4><a href="http://partyhd.com/social-media/">Social Media</a></h4>
+<p>Vestibulum lobortis. Donec at euismod nibh, eu bibendum quam. Nullam non gravida purus, nec eleifend tincidunt nisi. Fusce at purus in massa laoreet.</p>
+
+		</div> <!-- .et_pb_text -->
+		</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4">
+			<div class="et_pb_text et_pb_bg_layout_light et_pb_text_align_center">
+			
+<p><a href="http://partyhd.com/responsive-web-design/"><img class="alignnone size-full wp-image-1166 imgeffect" src="http://partyhd.com/wp-content/uploads/responsive-design-icon-small1.png" alt="responsive-design-icon-small" width="100" height="60" /></a></p>
+<h4><a href="http://partyhd.com/responsive-web-design/">Responsive Design</a></h4>
+<p>Vestibulum lobortis. Donec at euismod nibh, eu bibendum quam. Nullam non gravida purus, nec eleifend tincidunt nisi. Fusce at purus in massa laoreet.</p>
+
+		</div> <!-- .et_pb_text -->
+		</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4">
+			<div class="et_pb_text et_pb_bg_layout_light et_pb_text_align_center">
+			
+<p><a href="http://partyhd.com/branding-and-design/"><img class="alignnone size-full wp-image-1164 imgeffect" src="http://partyhd.com/wp-content/uploads/branding-and-design-icon-small1.png" alt="branding-and-design-icon-small" width="100" height="60" /></a></p>
+<h4><a href="http://partyhd.com/branding-and-design/">Branding and Design</a></h4>
+<p>Vestibulum lobortis. Donec at euismod nibh, eu bibendum quam. Nullam non gravida purus, nec eleifend tincidunt nisi. Fusce at purus in massa laoreet.</p>
+
+		</div> <!-- .et_pb_text -->
+		</div> <!-- .et_pb_column -->
+		</div> <!-- .et_pb_row -->
+			
+		</div> <!-- .et_pb_section --><div class="et_pb_section et_section_regular" style='background-color:#ffffff;'>
+			
+			
+				
+				<div class="et_pb_row">
+			<div class="et_pb_column et_pb_column_4_4">
+			<hr class="et_pb_space" style='height:80px;' /><div class="et_pb_text et_pb_bg_layout_light et_pb_text_align_left">
+			
+<h2>Automated Closed-Loop <strong>Inbound Marketing</strong> System</h2>
+
+		</div> <!-- .et_pb_text --><hr class="et_pb_space et_pb_divider" style='border-color: #cccccc;height:0px;' /><div class="et_pb_text et_pb_bg_layout_light et_pb_text_align_left">
+			
+<p style="text-align: justify;"><span style="color: #666666;">Aenean consectetur ipsum ante, vel egestas enim tincidunt quis. Pellentesque vitae congue neque, vel mattis ante. In vitae tempus nunc. Etiam adipiscing enim sed condimentum ultrices. Cras rutrum blandit sem, molestie consequat erat luctus vel. Cras nunc est, laoreet sit amet ligula et, eleifend commodo dui. Vivamus id blandit nisi, eu mattis odio.</span></p>
+<p style="text-align: justify;"><span style="color: #666666;">Aenean consectetur ipsum ante, vel egestas enim tincidunt quis. Pellentesque vitae congue neque, vel mattis ante. In vitae tempus nunc. Etiam adipiscing enim sed condimentum ultrices. Cras rutrum blandit sem, molestie consequat erat luctus vel. Cras nunc est, laoreet sit amet ligula et, eleifend commodo dui. Vivamus id blandit nisi, eu mattis odio.</span></p>
+
+		</div> <!-- .et_pb_text --><hr class="et_pb_space" style='height:10px;' /><div class="et_pb_text et_pb_bg_layout_light et_pb_text_align_center">
+			<iframe id="circle-animation" src="http://centangle.com/demo/partyhd" width="800" height="660"></iframe>
+		</div> <!-- .et_pb_text --><hr class="et_pb_space" style='height:50px;' />
+		</div> <!-- .et_pb_column -->
+		</div> <!-- .et_pb_row -->
+			
+		</div> <!-- .et_pb_section --><div class="et_pb_section et_section_regular">
+			
+			
+				
+				<div class="et_pb_row">
+			<div class="et_pb_column et_pb_column_4_4">
+			<div class="et_pb_text et_pb_bg_layout_light et_pb_text_align_left">
+			
+<h2>5 Reasons <strong>Your Business Needs Inbound Marketing</strong></h2>
+
+		</div> <!-- .et_pb_text --><hr class="et_pb_space et_pb_divider" style='border-color: #999999;height:0px;' /><div class="et_pb_text et_pb_bg_layout_light et_pb_text_align_left">
+			 <span style="color: #666666;">Aenean consectetur ipsum ante, vel egestas enim tincidunt quis. Pellentesque vitae congue neque, vel mattis ante. In vitae tempus nunc. Etiam adipiscing enim sed condimentum ultrices. Cras rutrum blandit sem, molestie consequat erat luctus vel. Cras nunc est, laoreet sit amet ligula et, eleifend commodo dui. Vivamus id blandit nisi, eu mattis odio.</span> <span style="color: #666666;">Aenean consectetur ipsum ante, vel egestas enim tincidunt quis. Pellentesque vitae congue neque, vel mattis ante. In vitae tempus nunc. Etiam adipiscing enim sed condimentum ultrices. Cras rutrum blandit sem, molestie consequat erat luctus vel. Cras nunc est, laoreet sit amet ligula et, eleifend commodo dui. Vivamus id blandit nisi, eu mattis odio.</span> 
+		</div> <!-- .et_pb_text --><hr class="et_pb_space" style='height:5px;' /><ul class="et_pb_counters et-waypoint et_pb_bg_layout_light">
+			<li>
+			<span class="et_pb_counter_title">Inbound marketing costs 62% less per lead than traditional outbound marketing</span>
+			<span class="et_pb_counter_container" style="background-color: #dddddd;">
+				<span class="et_pb_counter_amount" style="width: 62%; background-color: #3399cc;">62%</span>
+			</span>
+		</li><li>
+			<span class="et_pb_counter_title">57% of businesses have acquired a customer through their company blog</span>
+			<span class="et_pb_counter_container" style="background-color: #dddddd;">
+				<span class="et_pb_counter_amount" style="width: 57%; background-color: #3399cc;">57%</span>
+			</span>
+		</li><li>
+			<span class="et_pb_counter_title">42% of businesses have acquired a customer through Twitter</span>
+			<span class="et_pb_counter_container" style="background-color: #dddddd;">
+				<span class="et_pb_counter_amount" style="width: 42%; background-color: #3399cc;">42%</span>
+			</span>
+		</li><li>
+			<span class="et_pb_counter_title">57% of companies have acquired a customer through LinkedIn</span>
+			<span class="et_pb_counter_container" style="background-color: #dddddd;">
+				<span class="et_pb_counter_amount" style="width: 57%; background-color: #3399cc;">57%</span>
+			</span>
+		</li><li>
+			<span class="et_pb_counter_title">48% of companies have acquired a customer through Facebook</span>
+			<span class="et_pb_counter_container" style="background-color: #dddddd;">
+				<span class="et_pb_counter_amount" style="width: 48%; background-color: #3399cc;">48%</span>
+			</span>
+		</li>
+		</ul> <!-- .et_pb_counters --><hr class="et_pb_space et_pb_divider" style='border-color: #cccccc;height:30px;' />
+		</div> <!-- .et_pb_column -->
+		</div> <!-- .et_pb_row -->
+			
+		</div> <!-- .et_pb_section --><div class="et_pb_section et_section_regular" style='background-color:#3399cc;'>
+			
+			
+				
+				<div class="et_pb_row">
+			<div class="et_pb_column et_pb_column_4_4">
+			<div class="et_pb_promo et_pb_bg_layout_dark et_pb_text_align_center et_pb_no_bg">
+			<div class="et_pb_promo_description">
+				<h2>Don&#039;t Be Shy. Get In Touch.</h2>
+				 If you are interested in working together, send me an inquiry and I will get back to you as soon as I can! 
+			</div>
+			<a class="et_pb_promo_button" href="http://partyhd.com/contact/">Contact Me</a>
+		</div>
+		</div> <!-- .et_pb_column -->
+		</div> <!-- .et_pb_row -->
+			
+		</div> <!-- .et_pb_section -->
+					</div> <!-- .entry-content -->
+
+				
+				</article> <!-- .et_pb_post -->
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div> <!-- #main-content -->
+
+	<footer id="main-footer">
+		
+		<div id="footer-bottom">
+			<div class="container clearfix">
+				<ul id="et-social-icons">
+									<li class="et-social-icon et-social-facebook">
+						<a href="#">
+							<span>Facebook</span>
+						</a>
+					</li>
+													<li class="et-social-icon et-social-twitter">
+						<a href="#">
+							<span>Twitter</span>
+						</a>
+					</li>
+													<li class="et-social-icon et-social-google">
+						<a href="#">
+							<span>Google</span>
+						</a>
+					</li>
+																	<li class="et-social-icon et-social-rss">
+						<a href="http://partyhd.com/comments/feed/">
+							<span>RSS</span>
+						</a>
+					</li>
+								</ul>
+
+				<p id="footer-info">Designed by <a href="http://www.elegantthemes.com" title="Premium WordPress Themes">Elegant Themes</a> | Powered by <a href="http://www.wordpress.org">WordPress</a></p>
+			</div>	<!-- .container -->
+		</div>
+	</footer> <!-- #main-footer -->
+
+	<script type='text/javascript' src='http://partyhd.com/wp-includes/js/comment-reply.min.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://partyhd.com/wp-content/themes/Divi/js/jquery.fitvids.js?ver=1.7'></script>
+<script type='text/javascript' src='http://partyhd.com/wp-content/themes/Divi/js/waypoints.min.js?ver=1.7'></script>
+<script type='text/javascript' src='http://partyhd.com/wp-content/themes/Divi/js/jquery.magnific-popup.js?ver=1.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_custom = {"ajaxurl":"http:\/\/partyhd.com\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/partyhd.com\/wp-content\/themes\/Divi\/images","et_load_nonce":"1001f53251","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","fill":"Fill","field":"field","invalid":"Invalid email","captcha":"Captcha"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://partyhd.com/wp-content/themes/Divi/js/custom.js?ver=1.7'></script>
+
+
+<!-- Powered by Orbisius Child Theme Creator | URL: http://club.orbisius.com/products/wordpress-plugins/orbisius-child-theme-creator/ -->
+
+</body>
+</html>
+<!-- Dynamic page generated in 0.526 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2014-07-22 11:31:54 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->
