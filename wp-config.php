@@ -52,8 +52,8 @@ define('AUTH_SALT',        '6Q6Tp!1RgTWI98);qTSI~:mVxm4z\`G:1Eo2f=El~<=izvpk3GTX
 define('SECURE_AUTH_SALT', '<qK=_ftr~F5;V*zN*$>u=ys=xlOn(~YEM2p_S7#ox)vBOMOs7A0J4V4CVC<J^C12VQCp');
 define('LOGGED_IN_SALT',   'daPf5X8kHSUMM#A>#CwCX^0H73Z!^jmWCisg(_Y5DT|CXg#vz_PvWyJYI(nTtxk!~Ew1;2*wjIU');
 define('NONCE_SALT',       'tjMee1$alG$@TSa6E|U!g$\`;bT#4VyR0ev=1=1:1W;<Jss@mPt=2F<:aLg#UujJxf45?oe5^cu)(s<\`J3@');
- define('WP_HOME','http://localhost/idesignfast/');
-  define('WP_SITEURL','http://localhost/idesignfast/');
+ define('WP_HOME','http://192.168.1.6/idesignfast/');
+  define('WP_SITEURL','http://192.168.1.6/idesignfast/');
 /**#@-*/
 
 /**
