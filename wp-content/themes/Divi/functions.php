@@ -1,5 +1,5 @@
 <?php
-
+add_filter('show_admin_bar', '__return_false');
 if ( ! isset( $content_width ) ) $content_width = 1080;
 
 function et_setup_theme() {
